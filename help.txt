@@ -1,0 +1,10 @@
+***Siema, Klocki!
+Łapcie listę wszystkich dziłających komend
+Bawcie się dobrze!***
+
+`.pomoc/help/pomocy` -   Wyświetla tą wiadomość
+`.ping` -   Możecie pograć w pingla z botem
+`.rps/kpn [Twoj wybór]`    -   Papier/Kamien/Nożyce => Kamień, Papier, Nożyce z botem
+`.roll/r [XdN]`   -   Rzuca XdN kostkami gdzie X = ilosc, a N = rodzaj kostki np.d6
+`.sus` ***( ͡⚈ ͜ʖ ͡⚈)***
+`.dog/cat/fox/bird/redpanda` - Ładne zdjęcia i fajne ciekawostki
